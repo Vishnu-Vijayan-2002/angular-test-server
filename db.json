@@ -1,0 +1,16 @@
+{
+  "employees": [
+    {
+      "id": "1",
+      "name": "musk",
+      "email": "musk@gmail.com",
+      "status": "1"
+    },
+    {
+      "id": "2",
+      "name": "steve jobs",
+      "email": "steve@gmail.com",
+      "status": "0"
+    }
+  ]
+}
